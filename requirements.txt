@@ -1,0 +1,10 @@
+mne
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+xgboost
+tensorflow
+joblib
